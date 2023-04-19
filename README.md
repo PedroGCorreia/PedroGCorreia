@@ -1,5 +1,6 @@
 ## Olá! Meu nome é Pedro Correia 👋
 
+- 🏛 Estudante de Ciência da Computação na UFSCar
 - 🔭 Atualmente sou membro de comercial e desenvolvedor na Beets Jr
 - 🌱 Aprendendo JavaScript
 - 🤔 Interessado em desenvolvimento web
