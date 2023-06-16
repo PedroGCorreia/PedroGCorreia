@@ -2,7 +2,7 @@
 
 - 🏛 Estudante de Ciência da Computação na UFSCar
 - 🔭 Atualmente sou membro de comercial e desenvolvedor na Beets Jr
-- 🌱 Aprendendo JavaScript
+- 🌱 Aprendendo Java e JavaScript
 - 🤔 Interessado em desenvolvimento web
 
 ## ⚙ Linguagens e ferramentas
