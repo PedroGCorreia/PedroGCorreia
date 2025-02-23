@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Pedro Correia 👋
 
 - 🏛 Estudante de Ciência da Computação na UFSCar
-- 🌱 Estudando aprendizado de máquina, programação em python e ciência de dados
-- 🤔 Interessado na área de dados e ciência de dados
+- 🌱 Estudando ciência e análise de dados
+- 🤔 Interessado na área de dados
 
 ## ⚙ Linguagens e ferramentas
 
